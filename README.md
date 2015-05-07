@@ -4,6 +4,8 @@ Lecture Notes on Scientific Working provide ipython notebooks (actually without 
 - Scientific Writing in CS (under Construction)
    - [Overview](http://nbviewer.ipython.org/urls/raw.github.com/mgrani/LeSi--Lecture-Notes-on-Scientific-Working/master/scientific-writing/scientific-writing-overview.ipynb)
    - [Understanding the Reader](http://nbviewer.ipython.org/urls/raw.github.com/mgrani/LeSi--Lecture-Notes-on-Scientific-Working/master/scientific-writing/scientific-writing-reader.ipynb)
+   - [The Structure of a Paper](http://nbviewer.ipython.org/urls/raw.github.com/mgrani/LeSi--Lecture-Notes-on-Scientific-Working/master/scientific-writing/scientific-writing-paper-structure.ipynb)
+   - The Writing Process (planned)
 - Scientific Processes in CS (planned)
 - Scientific Presentations in CS (planned).
 
